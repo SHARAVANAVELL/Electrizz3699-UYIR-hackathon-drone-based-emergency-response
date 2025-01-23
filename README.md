@@ -35,4 +35,4 @@ This project implements an accident detection system using a pre-trained Convolu
 3. The application will start processing the video feed. Press 'q' to exit.
 
 
-```
+
